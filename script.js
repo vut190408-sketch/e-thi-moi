@@ -1036,7 +1036,7 @@ let QUIZ_DATA_SETS = {};
         // =========================================================================
         // === HỆ THỐNG KIỂM TRA PHIÊN BẢN TỰ ĐỘNG (AUTO-UPDATE) ===
         // =========================================================================
-        const CURRENT_VERSION = 1785894376055;
+        const CURRENT_VERSION = 1785896425009;
         const CHECK_INTERVAL = 3 * 60 * 1000;
 
         async function checkUpdate() {
